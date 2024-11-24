@@ -1,10 +1,11 @@
 # Group Discussions
 
-```
+-----
+
 [Discuss here](https://github.com/orgs/AI-Youth-Allance/discussions)
 
-```
 
+----
 ## Meet other members
 
 | Name                        | Role                                             | GitHub Account                                      |
