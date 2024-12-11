@@ -15,3 +15,5 @@
 | Akyl Kurmanaliev            | Academic Advisor, Head of Academic Advisor, Junior Editor, Blog/Article Writer, Researcher | [@akylkur](https://github.com/akylkur)              |
 | Rohan Sai Athmakuri         | Researcher, Blog/Article Writer                  | [@rohanreigns007](https://github.com/rohanreigns007) |
 | Md. Zahidul Islam           | Researcher                                       | [@zahid66-m](https://github.com/zahid66-m)         |
+| Kinjal Jauhari              | Social Media lead, Blog/Article Writer, Content Creator, Researcher                                       | [Kinjaljauhari](https://github.com/Kinjaljauhari)         |
+
